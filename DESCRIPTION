@@ -1,0 +1,13 @@
+Package: jmonque2
+Title: Adds Numbers Using the Function jmonque2
+Version: 0.0.0.9000
+Authors@R: 
+    person("Joaquin", "Monque", , "joaquin4@usf.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package provides a function that allows you to add two numbers and gives you the sum 
+    of the two numbers. It is a very straight forward package.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
